@@ -158,9 +158,11 @@ even life changing MOOC available.
 
 #### Beer
 
-#### Liquor
+#### Liquor & Cocktails
 
 #### Kombucha
 
 - [First fermentation](https://www.youtube.com/watch?v=D3Axb37lMWI)
 - [Second fermentation](https://www.youtube.com/watch?v=9VrfDb9uhOQ)
+
+## Baking
