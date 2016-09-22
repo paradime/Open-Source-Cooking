@@ -21,25 +21,55 @@ even life changing MOOC available.
   - [Vegetables and Herbs](https://www.youtube.com/watch?v=yDTH-wQjQ2s)
   - [Pantry Essentials](https://www.youtube.com/watch?v=bITUXDFbJ88)
   - [Dairy & Meat](https://www.youtube.com/watch?v=VhOgUmQSb6k)
-- [The Kitchn's Cooking
-School](http://www.thekitchn.com/collection/cooking-school-373)
-- [Brother's Green Cooking Basics](https://www.youtube.com/watch?v=Jj1fhYZJjek)
+- General Cooking
+  - [The Kitchn's Cooking
+  School](http://www.thekitchn.com/collection/cooking-school-373)
+  - [Brother's Green Cooking Basics](https://www.youtube.com/watch?v=Jj1fhYZJjek)
+- Knife Skills
+  - [How to dice almost
+      anything](http://www.thekitchn.com/how-to-dice-almost-anything-234653)
 - Vegetables
   - [Brother's Green Cooking
       Vegetables](https://www.youtube.com/watch?v=zu8FS3-MIAs)
+  - [Roasting
+      Vegetables](http://www.thekitchn.com/how-to-roast-any-vegetable-101221)
 - Protein
   - [Brother's Green Grilling Fish](https://www.youtube.com/watch?v=cdb1kcOLzmI)
 - Fats
+- Tasting Food
+  - [How to taste food like a
+      chef](http://www.huffingtonpost.com/tim-ferriss/5-tricks-for-tasting-food_b_2599640.html)
+
+### References
+
+- Slow Cooking
 
 ## Intermediate
 
 - [Brother's Green How to follow a
   recipe](https://www.youtube.com/watch?v=jTFr_efSjCk)
+- [How to cook food in a pressure
+  cooker](http://www.hippressurecooking.com/learn-to-pressure-cook/)
+- [How to sharpen Knives](https://www.chefsteps.com/classes/knife-sharpening)
+- Spices and Flavor profiles
+  - [Infographic Guide to
+      Spices](http://www.cooksmarts.com/articles/ultimate-infographic-guide-spices/)
+
+### References
+
+- Pressure Cooking
+  - [Pressure Cooking Time
+      Tables](http://www.hippressurecooking.com/pressure-cooking-times/)
+
 
 ## Advanced
 
 - [Sous Vide](https://www.chefsteps.com/classes/cooking-sous-vide-getting-started)
 - [Plating](https://www.chefsteps.com/classes/design-a-dish)
+
+### Recipe References
+
+- Sous Vide Cooking
 
 ## Specialty Cooking
 
