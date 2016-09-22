@@ -43,6 +43,31 @@ even life changing MOOC available.
 ### References
 
 - Slow Cooking
+- Heat
+  - Roasting
+    - Indirect heat with browning on the ouside
+  - baking
+    - indirect head with no browning
+  - broiling
+    - heat coming from the top
+  - grilling
+    - heat coming from a flame, usually from the bottom
+  - toasting
+    - direct heat from all sides
+  - boiling
+    - cooking something in water at the boiling point
+  - simmering
+    - cooking food in water just below the boiling point
+  - blanching
+    - cooking water briefly to water at boiling point
+  - braising
+    - food is cooked at high temperature, then add to liquid at lower temperature
+  - Poaching
+    - cooking food in water at low temperature
+  - steaming
+    - cooking using steam
+  - stewing
+    - cooking a large amount of ingredients at a simmering heat for a long period of time
 
 ## Intermediate
 
@@ -95,6 +120,9 @@ even life changing MOOC available.
 - [Brother's Green Cook Korean](https://www.youtube.com/watch?v=WQ6A9Ga-Zyk)
 
 ### French
+
+- [5 mother
+  sauces](https://food52.com/blog/12209-the-five-mother-sauces-every-cook-should-know)
 
 ### German
 
