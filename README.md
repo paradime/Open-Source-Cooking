@@ -43,31 +43,23 @@ even life changing MOOC available.
 ### References
 
 - Slow Cooking
-- Heat
-  - Roasting
-    - Indirect heat with browning on the ouside
-  - baking
-    - indirect head with no browning
-  - broiling
-    - heat coming from the top
-  - grilling
-    - heat coming from a flame, usually from the bottom
-  - toasting
-    - direct heat from all sides
-  - boiling
-    - cooking something in water at the boiling point
-  - simmering
-    - cooking food in water just below the boiling point
-  - blanching
-    - cooking water briefly to water at boiling point
-  - braising
-    - food is cooked at high temperature, then add to liquid at lower temperature
-  - Poaching
-    - cooking food in water at low temperature
-  - steaming
-    - cooking using steam
-  - stewing
-    - cooking a large amount of ingredients at a simmering heat for a long period of time
+
+#### Heat
+
+| Technique | Description |
+| --- | --- |
+| Roasting | Indirect heat with browning on the outside | 
+| Baking | indirect head with no browning |
+| Broiling | heat coming from the top
+| Grilling | heat coming from a flame, usually from the bottom |
+| Toasting | direct heat from all sides |
+| Boiling | cooking something in water at the boiling point |
+| Simmering | cooking food in water just below the boiling point |
+| Blanching | cooking water briefly to water at boiling point |
+| Braising | food is cooked at high temperature, then add to liquid at lower temperature |
+| Poaching | cooking food in water at low temperature |
+| Steaming | cooking using steam |
+| Stewing | cooking a large amount of ingredients at a simmering heat for a long period of time |
 
 ## Intermediate
 
